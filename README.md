@@ -1,3 +1,3 @@
 # pipeline-test
-testing pipeline integrations by use of 
+testing pipeline integrations by use of webhooks
  
